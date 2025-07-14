@@ -5,13 +5,13 @@ services:
     image: wordpress:latest
     ports:
       - "80:80"
-    depends_on:
-      - db
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: wordpress
       WORDPRESS_DB_PASSWORD: wordpress
       WORDPRESS_DB_NAME: wordpress
+    depends_on:
+      - db
 
   db:
     image: mysql:5.7
@@ -21,13 +21,3 @@ services:
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: wordpress
       MYSQL_ROOT_PASSWORD: root
-    volumes:
-      - db_data:/var/lib/mysql
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "10m"
-        max-file: "3"
-
-volumes:
-  db_data:
