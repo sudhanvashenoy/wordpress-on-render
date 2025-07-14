@@ -1,0 +1,263 @@
+# Copyright (C) 2024 Kantipur Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Expose Business 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/expose-business\n"
+"POT-Creation-Date: 2024-11-19 06:39:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:113
+msgid "Welcome to the"
+msgstr ""
+
+#: functions.php:114
+msgid "is now installed and ready to use."
+msgstr ""
+
+#: functions.php:117
+msgid "-pro"
+msgstr ""
+
+#: functions.php:117
+msgid "Buy Pro"
+msgstr ""
+
+#: functions.php:118
+msgid "Theme Info"
+msgstr ""
+
+#: inc/filters.php:18
+msgctxt "Used if posts or pages has no title"
+msgid "(No title)"
+msgstr ""
+
+#: inc/register-block-patterns.php:25
+msgid "Theme patterns"
+msgstr ""
+
+#: inc/register-block-styles.php:22
+msgid "Flat button"
+msgstr ""
+
+#: inc/register-block-styles.php:30
+msgid "Underlined list items"
+msgstr ""
+
+#: inc/register-block-styles.php:38 inc/register-block-styles.php:46
+#: inc/register-block-styles.php:54
+msgid "Box shadow"
+msgstr ""
+
+#: inc/register-block-styles.php:62
+msgid "Plus & minus"
+msgstr ""
+
+#: patterns/about.php:29
+msgid "12"
+msgstr ""
+
+#: patterns/about.php:33
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:47
+msgid "ABOUT COMPANY"
+msgstr ""
+
+#: patterns/about.php:53
+msgid "A Fully Integrated Business Management."
+msgstr ""
+
+#: patterns/about.php:57
+msgid "Molestiae lectus nihil iure platea laoreet velit scelerisque."
+msgstr ""
+
+#: patterns/about.php:61
+msgid "Sed feugiat feugiat felis. Curabitur posuere tristique mauris non blandit. Sed consectetur venenatis enim."
+msgstr ""
+
+#: patterns/about.php:67
+msgid "Efficiency &amp; Management"
+msgstr ""
+
+#: patterns/about.php:71 patterns/about.php:87
+msgid "Vel numquam ab hac varius rerum ullamco soluta. Aut habitasse fusce magni."
+msgstr ""
+
+#: patterns/about.php:83
+msgid "Commitment &amp; Professional"
+msgstr ""
+
+#: patterns/callback.php:22
+msgid "Have A Project For Us ? Let&#39;s Get Started !"
+msgstr ""
+
+#: patterns/callback.php:27 patterns/hero.php:42
+msgid "Let&#39;s Get Started"
+msgstr ""
+
+#: patterns/columns-with-images.php:20 patterns/columns-with-images.php:26
+#: patterns/columns-with-images.php:38
+msgctxt "sample content"
+msgid "Sample content. Replace the text with your own content."
+msgstr ""
+
+#: patterns/comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: patterns/hero.php:27
+msgid "BUSINESS COMPANY"
+msgstr ""
+
+#: patterns/hero.php:33
+msgid "Best Solution For Business Firms !"
+msgstr ""
+
+#: patterns/hero.php:37
+msgid "Molestiae lectus nihil iure platea laoreet velit scelerisque. Scelerisque suscipit! Sequi fugiat pharetra do, et consectetur quis! Mus rhoncus eget natis deserunt condim."
+msgstr ""
+
+#: patterns/hidden-404.php:25
+msgid "Page not found"
+msgstr ""
+
+#: patterns/hidden-404.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. translators: %s: Copyright year.
+
+#: patterns/hidden-footer-links.php:21
+msgid "Copyright %s. "
+msgstr ""
+
+#: patterns/hidden-footer-links.php:22
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: patterns/hidden-footer-links.php:24
+msgid "All right reserved."
+msgstr ""
+
+#: patterns/hidden-post-meta.php:21
+msgid "Categories: "
+msgstr ""
+
+#: patterns/portfolio.php:17
+msgid "CASE STUDIES"
+msgstr ""
+
+#: patterns/portfolio.php:23
+msgid "Completed Case Studies"
+msgstr ""
+
+#: patterns/portfolio.php:27
+msgid "Consequatur id quidem nisi maiores vitae laudantium."
+msgstr ""
+
+#: patterns/portfolio.php:40
+msgid "Secure Managing Process"
+msgstr ""
+
+#: patterns/portfolio.php:58
+msgid "Uplifting Business Policies"
+msgstr ""
+
+#: patterns/portfolio.php:76
+msgid "Collaborating With Companies"
+msgstr ""
+
+#: patterns/portfolio.php:96
+msgid "Developing Business Skill"
+msgstr ""
+
+#: patterns/portfolio.php:114
+msgid "Analyzing Market Survey"
+msgstr ""
+
+#: patterns/portfolio.php:132
+msgid " Discussing Company Aim"
+msgstr ""
+
+#: patterns/query.php:44
+msgid "No results"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/services.php:25
+msgid "Our Creative Business Features &amp; Services"
+msgstr ""
+
+#: patterns/services.php:32
+msgid "Incidunt tempore, purus auctor, suscipit turpis viverra dolores cupidatat amet wisi mus! Hic, lorem, Felis sapien. Pellentesque quod montes. Laboris ducimus tincidunt exercitationem, phasellus posuer."
+msgstr ""
+
+#: patterns/services.php:43
+msgid "01"
+msgstr ""
+
+#: patterns/services.php:48
+msgid "Business Branding Strategy"
+msgstr ""
+
+#: patterns/services.php:57 patterns/services.php:85 patterns/services.php:113
+msgid "Pede felis nascetur nibh dui numquam malesuada eos arcu rem."
+msgstr ""
+
+#: patterns/services.php:71
+msgid "02"
+msgstr ""
+
+#: patterns/services.php:76
+msgid "Email &amp; Content Marketing"
+msgstr ""
+
+#: patterns/services.php:99
+msgid "03"
+msgstr ""
+
+#: patterns/services.php:104
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: patterns/services.php:125
+msgid "Explore All Service"
+msgstr ""
+
+#: patterns/top-header.php:17
+msgid "Need Professional Advisor ?"
+msgstr ""
+
+#: patterns/top-header.php:22
+msgid "Book Schedule"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Expose Business"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.kantipurthemes.com/downloads/expose-business"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Expose Business is a Full Site Editing Business WordPress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kantipur Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.kantipurthemes.com/"
+msgstr ""
