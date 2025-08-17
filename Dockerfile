@@ -1,15 +1,16 @@
-# Use official PHP image with Apache
+ # Use official PHP-Apache image
 FROM php:8.1-apache
 
-# Install required PHP extensions for WordPress
-RUN docker-php-ext-install mysqli pdo pdo_mysql
+# Install mysqli (needed for WordPress DB connection)
+RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli
 
-# Copy WordPress files into Apache root
+# Copy all project files into Apache web root
 COPY . /var/www/html/
 
-# Set working directory
-WORKDIR /var/www/html/
-
-# Permissions
+# Set correct permissions
 RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 755 /var/www/html
+
+# Apache runs on port 80
+EXPOSE 80
+
