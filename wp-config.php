@@ -23,16 +23,16 @@ define('FS_METHOD','direct');
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress' );
+define( 'DB_NAME', 'johnegra_mywebsite' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'johnegra_mywebsite' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Sudshesampige@123456' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'gator3224.hostgator.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
